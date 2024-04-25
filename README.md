@@ -2,6 +2,8 @@
 
 👤 Author: Sarlin7757 JailBreakerVC
 
+![image](https://github.com/Sarlin-7757/ToxicityChecker/assets/108054534/05128a8d-1742-487b-9f13-717615fafbab)
+
 ## Overview
 This repository presents a toxicity checker implemented using Long Short-Term Memory (LSTM) networks, trained on the Jigsaw Toxicity Dataset. The model is designed to detect toxic comments in text data with high accuracy.
 
