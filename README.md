@@ -11,7 +11,7 @@ This repository presents a toxicity checker implemented using Long Short-Term Me
 🔍 Provides a reliable solution for identifying toxic comments in various contexts
 
 ## Requirements
-- Python 3.x
+- Python 3.11
 - TensorFlow
 - Jigsaw Toxicity Dataset
 
